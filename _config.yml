@@ -2,6 +2,6 @@ title: Family Cookbook
 description: Recipes passed down and collected
 theme: minima
 collections:
-recipes:
-output:
-true permalink:/recipes/:path/
+  recipes:
+    output: true
+    permalink: /recipes/:path/
