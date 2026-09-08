@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: "Tortilla Cream Cheese Appetizer"
 category: "Appetizer"
 tags: ["cream-cheese", "make-ahead", "no-bake", "tortilla"]
