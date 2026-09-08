@@ -1,6 +1,7 @@
 title: Family Cookbook
 description: Recipes passed down and collected
 theme: minima
+baseurl: "/family-cookbook"
 collections:
   recipes:
     output: true
