@@ -1,6 +1,6 @@
 title: Family Cookbook
 description: Recipes passed down and collected
-theme: minima
+theme: jekyll-theme-cayman
 baseurl: "/family-cookbook"
 collections:
   recipes:
