@@ -1,1 +1,4 @@
- --- layout: home --- Welcome to the family cookbook
+ ---
+ layout: home
+ ---
+ Welcome to the family cookbook
